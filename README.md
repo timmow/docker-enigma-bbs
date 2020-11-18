@@ -1,5 +1,7 @@
 # ENiGMA BBS
 
+build
+
 Docker container that runs [ENiGMA½ BBS Software](https://github.com/NuSkooler/enigma-bbs). All required packages for 
 ENiGMA½ to run successfully are included, and pm2-docker is used to manage the Node.js process.
 
