@@ -1,10 +1,8 @@
 FROM ubuntu:bionic
 
-MAINTAINER Dave Stephens <dave@force9.org>
-
 ENV NVM_DIR /root/.nvm
 ENV NODE_VERSION 10
-ENV ENIGMA_BRANCH 0.0.10-alpha
+ENV ENIGMA_BRANCH master
 ENV DEBIAN_FRONTEND noninteractive
 
 # Do some installing!
